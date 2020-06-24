@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/Leila/Documents/CSC2303/CourseraApplication/src/user/Member.java</file>
+            <file>file:/C:/Users/Leila/Documents/CSC2303/CourseraApplication/src/course/Topic.java</file>
+            <file>file:/C:/Users/Leila/Documents/CSC2303/CourseraApplication/src/course/Material.java</file>
+            <file>file:/C:/Users/Leila/Documents/CSC2303/CourseraApplication/src/course/coursework/Coursework.java</file>
+            <file>file:/C:/Users/Leila/Documents/CSC2303/CourseraApplication/src/course/coursework/Submission.java</file>
+            <file>file:/C:/Users/Leila/Documents/CSC2303/CourseraApplication/src/exceptions/InvalidEmailException.java</file>
+            <file>file:/C:/Users/Leila/Documents/CSC2303/CourseraApplication/src/course/Grade.java</file>
+            <file>file:/C:/Users/Leila/Documents/CSC2303/CourseraApplication/src/course/Specialization.java</file>
+            <file>file:/C:/Users/Leila/Documents/CSC2303/CourseraApplication/src/registration/CourseRegistration.java</file>
+            <file>file:/C:/Users/Leila/Documents/CSC2303/CourseraApplication/src/exceptions/InvalidPasswordException.java</file>
+            <file>file:/C:/Users/Leila/Documents/CSC2303/CourseraApplication/src/myGUI/CRUDPanel.java</file>
+            <file>file:/C:/Users/Leila/Documents/CSC2303/CourseraApplication/src/myGUI/CourseSearchPanel.java</file>
+            <file>file:/C:/Users/Leila/Documents/CSC2303/CourseraApplication/src/course/CertificateChoice.java</file>
+            <file>file:/C:/Users/Leila/Documents/CSC2303/CourseraApplication/src/course/Course.java</file>
+            <file>file:/C:/Users/Leila/Documents/CSC2303/CourseraApplication/src/user/DataBaseCollection.java</file>
+            <file>file:/C:/Users/Leila/Documents/CSC2303/CourseraApplication/src/user/Profile.java</file>
+            <file>file:/C:/Users/Leila/Documents/CSC2303/CourseraApplication/src/user/HighestDegree.java</file>
+            <file>file:/C:/Users/Leila/Documents/CSC2303/CourseraApplication/src/courseraapplication/CourseraApplication.java</file>
+            <file>file:/C:/Users/Leila/Documents/CSC2303/CourseraApplication/src/user/Gender.java</file>
+            <file>file:/C:/Users/Leila/Documents/CSC2303/CourseraApplication/src/course/CourseCollection.java</file>
+            <file>file:/C:/Users/Leila/Documents/CSC2303/CourseraApplication/src/course/CourseAlphaComp.java</file>
+            <file>file:/C:/Users/Leila/Documents/CSC2303/CourseraApplication/src/user/MemberAlphaComp.java</file>
+            <file>file:/C:/Users/Leila/Documents/CSC2303/CourseraApplication/src/myGUI/CourseraGUI.java</file>
+            <file>file:/C:/Users/Leila/Documents/CSC2303/CourseraApplication/src/registration/SpecializationRegistration.java</file>
+            <file>file:/C:/Users/Leila/Documents/CSC2303/CourseraApplication/src/registration/Registration.java</file>
+        </group>
+    </open-files>
+</project-private>
